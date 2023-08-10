@@ -1,5 +1,5 @@
 # Django-auto-activating
-Using my Python skills to automate activating env and running the Django server.
+I am using my Python skills to automate activating env and running the Django server.
 
 This is a very short piece of code but very handy.
 If like me you're working on projects that need to be run on a local server, this piece of code can save you time.
